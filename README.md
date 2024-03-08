@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1003496457103495248/1195984485615939744/Mysrlf.gif?ex=65f693d9&is=65e41ed9&hm=195a082ec6b3e9e1a43e2a9a0c800c9faeab30d93b14802517cc5c11bab6d03e&" alt="HaTienSang" width="100">
+  <img src="https://media.discordapp.net/attachments/1003496457103495248/1033609938150379550/IMG_20221023_121150.png?ex=65f67cc4&is=65e407c4&hm=6d7feb9b977b27fe8ec7de3cb400cf94ffabef2fa8d18f2cacd480e69b3156e6&=&format=webp&quality=lossless&width=449&height=449&" alt="HaTienSang" width="100">
   <h1><strong>HTS765</strong></h1>
 </div>
 

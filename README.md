@@ -24,7 +24,7 @@
 </p>
 
 ## 🔗 Github Stats:
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=sang765&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![HaTienSang's github trophy](https://github-profile-trophy.vercel.app/?username=sang765&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![HaTienSang's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sang765&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

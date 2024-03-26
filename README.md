@@ -8,9 +8,8 @@
 🖊️ Name: **HaTienSang**
 
 📬 Email: **bemimnitran@gmail.com**
-161
-🖥️ Favorite Coding Language: **CSS**
 
+🖥️ Favorite Coding Language: **CSS**
 
 🌳 Hobbies: **Music and Game**
 

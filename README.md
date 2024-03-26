@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/uNWKMTU.gif" alt="HaTienSang" width="100">
+  <img src="https://github.com/sang765/sang765/assets/80249864/50c9a5a7-2cad-4b79-b637-a4ceea8f353d" alt="HaTienSang" width="100">
   <h1><strong>HTS765</strong></h1>
 </div>
 
@@ -8,8 +8,9 @@
 🖊️ Name: **HaTienSang**
 
 📬 Email: **bemimnitran@gmail.com**
-
+161
 🖥️ Favorite Coding Language: **CSS**
+
 
 🌳 Hobbies: **Music and Game**
 

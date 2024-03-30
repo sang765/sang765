@@ -31,3 +31,6 @@
 [![HaTienSang's github stats](https://github-readme-stats.vercel.app/api?username=sang765&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HaTienSang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sang765&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📱 Discord Status:
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/926519119849869322?theme=dark&bg=091a37&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/926519119849869322)

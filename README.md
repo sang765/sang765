@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 <div align="center">
-  <h6>🖊️ Name: <strong>HaTienSang</strong></h6>
+  <h6>🖊️ Full Name: <strong>Ha Tien Sang</strong> (you can call me is <strong>Sang</strong> or <strong>Bright</strong>)</h6>
   <h6>📬 Email: <strong><a href="https://mail.google.com/mail/?view=cm&fs=1&to=bemimnitran@gmail.com">bemimnitran@gmail.com</a></strong></h6>
   <h6>🖥️ Favorite Language: <strong>CSS</strong></h6>
   <h6>🌳 Hobbies: <strong>Music and Game</strong></h6>

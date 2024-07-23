@@ -24,7 +24,7 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sang765&row=1" alt="HaTienSang's github trophy"></a>
   <br>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sang765&theme=blue-green" alt="HaTienSang's github streak"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sang765&theme=humoris&border_radius=5&date_format=j%2Fn%5B%2FY%5D&background=45%2CE9EBCC%2CFFFBA5" alt="GitHub Streak" /></a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sang765&theme=blue-green" alt="HaTienSang's github stats"></a>
   <br>

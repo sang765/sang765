@@ -37,3 +37,11 @@
 <div align="center">
   <a href="https://discord.com/users/926519119849869322"><img src="https://lanyard-profile-readme.vercel.app/api/926519119849869322?theme=dark&bg=091a37&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"></a>
 </div>
+
+## 🖊️ My Repo:
+
+<div align="center">
+  <a href="https://github.com/sang765/Anicord-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=Anicord-Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Anicord-Theme"></a>
+  <a href="https://github.com/sang765/Discord-CSS-Snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=Discord-CSS-Snippets&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Discord-CSS-Snippets"></a>
+  <a href="https://github.com/sang765/PaperMC-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=PaperMC-Manager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="PaperMC-Manager"></a>
+</div>

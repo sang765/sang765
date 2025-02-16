@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sang765/sang765/assets/avatar.png" alt="HaTienSang" width="100">
+  <img src="https://github.com/sang765/sang765/blob/main/assets/avatar.png?raw=true" alt="HaTienSang" width="100">
   <h1><strong>HTS765</strong></h1>
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sang765/sang765/assets/80249864/50c9a5a7-2cad-4b79-b637-a4ceea8f353d" alt="HaTienSang" width="100">
+  <img src="https://github.com/sang765/sang765/assets/avatar.png" alt="HaTienSang" width="100">
   <h1><strong>HTS765</strong></h1>
 </div>
 
@@ -29,8 +29,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sang765&theme=blue-green" alt="HaTienSang's github stats"></a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang765&theme=blue-green" alt="HaTienSang's top languages"></a>
-  <br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=sang765&label=Profile%20Views&pretty=false" alt="Profile View"></a>
 </div>
 
 ## 📱 Discord Status:

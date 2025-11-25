@@ -17,6 +17,7 @@
   <a href="https://open.spotify.com/user/31hnvu2mqze5abnbiz6ursanhqqu"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://www.reddit.com/user/TranHTS_VN"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
   <a href="https://www.facebook.com/sangsdayy"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <p>Metasucks banned my Facebook account.</p>
 </div>
 
 ## 🔗 Github Stats:

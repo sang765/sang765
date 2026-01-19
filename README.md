@@ -33,7 +33,7 @@
 
 ## 📱 Discord Status:
 <div align="center">
-  <a href="https://discord.com/users/926519119849869322"><img src="https://lanyard-profile-readme.vercel.app/api/926519119849869322?theme=dark&bg=091a37&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"></a>
+  <a href="https://discord.com/users/926519119849869322"><img src="https://lanyard-profile-readme.vercel.app/api/926519119849869322?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"></a>
 </div>
 
 ## 🖊️ My Repository:

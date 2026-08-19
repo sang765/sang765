@@ -8,7 +8,7 @@
   <p>When I'm not coding, you'll find me lost in music playlists or diving into epic game worlds. I believe in creating things that not only work but also bring a smile to users' faces. Why "Bright"? Because I strive to bring light and positivity through my creations!</p>
   <br>
   <h6>🖊️ Full Name: <strong>Ha Tien Sang</strong></h6>
-  <h6>📬 Email: <strong><a href="https://mail.google.com/mail/?view=cm&fs=1&to=bemimnitran@gmail.com">bemimnitran@gmail.com</a></strong></h6>
+  <h6>📬 Email: <strong><a href="https://mail.google.com/mail/?view=cm&fs=1&to=hafts765@gmail.com">hafts765@gmail.com</a></strong></h6>
   <h6>🖥️ Favorite Languages: <strong>JavaScript, TypeScript, CSS</strong></h6>
   <h6>🌳 Hobbies: <strong>Music & Gaming</strong></h6>
   <h6>🚩 Based in: <strong>Vietnam</strong></h6>

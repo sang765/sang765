@@ -39,6 +39,12 @@
   <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=sang765&theme=blue-green" alt="HaTienSang's github stats"></a>
   <br>
   <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sang765&theme=blue-green" alt="HaTienSang's top languages"></a>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sang765/contribution_snake/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sang765/contribution_snake/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sang765/contribution_snake/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 📱 Discord Status:

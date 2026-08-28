@@ -36,9 +36,9 @@
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sang765&theme=humoris&border_radius=5&date_format=j%2Fn%5B%2FY%5D&background=45%2CE9EBCC%2CFFFBA5" alt="GitHub Streak" /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sang765&theme=blue-green" alt="HaTienSang's github stats"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=sang765&theme=blue-green" alt="HaTienSang's github stats"></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang765&theme=blue-green" alt="HaTienSang's top languages"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sang765&theme=blue-green" alt="HaTienSang's top languages"></a>
 </div>
 
 ## 📱 Discord Status:
@@ -61,10 +61,10 @@
 <div align="center">
   <p>Here are some of my favorite creations – from Discord themes to Minecraft management tools. Each one reflects my passion for making digital spaces more enjoyable!</p>
   <br>
-  <a href="https://github.com/sang765/Anicord-Theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=Anicord-Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Anicord-Theme"></a>
-  <a href="https://github.com/sang765/PaperMC-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=PaperMC-Manager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="PaperMC-Manager"></a>
-  <a href="https://github.com/sang765/Discord-CSS-Snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=Discord-CSS-Snippets&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Discord-CSS-Snippets"></a>
-  <a href="https://github.com/sang765/HakoMonetTheme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sang765&repo=HakoMonetTheme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HakoMonetTheme"></a>
+  <a href="https://github.com/sang765/Anicord-Theme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Anicord-Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Anicord-Theme"></a>
+  <a href="https://github.com/sang765/PaperMC-Manager"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=PaperMC-Manager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="PaperMC-Manager"></a>
+  <a href="https://github.com/sang765/Discord-CSS-Snippets"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Discord-CSS-Snippets&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Discord-CSS-Snippets"></a>
+  <a href="https://github.com/sang765/HakoMonetTheme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=HakoMonetTheme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HakoMonetTheme"></a>
 </div>
 
 </div>

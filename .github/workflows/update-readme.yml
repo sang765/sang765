@@ -19,26 +19,50 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          python3 << 'EOF'
+          import subprocess
+          import re
+
           # Fetch repos sorted by most recently pushed, exclude forks
-          repos=$(gh api "users/sang765/repos?per_page=100&sort=pushed&direction=desc" \
-            --jq '[.[] | select(.fork == false)] | .[0:4] | .[] | .name')
+          result = subprocess.run(
+              ['gh', 'api', 'users/sang765/repos?per_page=100&sort=pushed&direction=desc',
+               '--jq', '[.[] | select(.fork == false)] | .[0:4] | .[] | .name'],
+              capture_output=True, text=True
+          )
+          repos = result.stdout.strip().split('\n')
 
           # Build the HTML cards
-          cards=""
-          for repo in $repos; do
-            cards+="  <a href=\"https://github.com/sang765/${repo}\"><img src=\"https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=${repo}&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515\" alt=\"${repo}\"></a>"$'\n'
-          done
+          cards = []
+          for repo in repos:
+              if repo:
+                  cards.append(
+                      f'  <a href="https://github.com/sang765/{repo}">'
+                      f'<img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo={repo}'
+                      f'&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" '
+                      f'alt="{repo}"></a>'
+                  )
 
-          # Replace content between markers in README
-          sed -i "/<!-- TOP_REPOS_START -->/,/<!-- TOP_REPOS_END -->/{
-            /<!-- TOP_REPOS_START -->/!{
-              /<!-- TOP_REPOS_END -->/!d
-            }
-            /<!-- TOP_REPOS_START -->/a\\
-          $(echo "$cards" | sed 's/$/\\/' | sed '$ s/\\$//')
-          }" README.md
+          # Read README
+          with open('README.md', 'r') as f:
+              content = f.read()
 
-          # Commit if changed
+          # Replace content between markers
+          new_content = re.sub(
+              r'<!-- TOP_REPOS_START -->.*?<!-- TOP_REPOS_END -->',
+              '<!-- TOP_REPOS_START -->\n' + '\n'.join(cards) + '\n<!-- TOP_REPOS_END -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          # Write back
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+
+          print(f"Updated with repos: {', '.join(repos[:4])}")
+          EOF
+
+      - name: Commit if changed
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git diff --quiet || git commit -m "chore: update top activity repos [skip ci]" && git push

@@ -93,4 +93,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update top activity repos [skip ci]" && git push
+          git diff --cached --quiet || (git commit -m "chore: update top activity repos [skip ci]" && git pull --rebase origin main && git push)

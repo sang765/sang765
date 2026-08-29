@@ -76,6 +76,24 @@
 ## 🏠 Project Home Made:
 
 <!-- HOME_MADE_START -->
+- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
+- **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
+- **[ArchiveTune-Discord-Bot](https://github.com/sang765/ArchiveTune-Discord-Bot)** - Discord Bot source code for ArchiveTune server
+- **[ShiggyCord-ARMv7a](https://github.com/sang765/ShiggyCord-ARMv7a)** - ShiggyCord DiscordRN ARMv7a fork with ShiggyXposed and ShiggyManager support
+- **[AT-nightly-test](https://github.com/sang765/AT-nightly-test)** - Test builds for ArchiveTune Nightly
+- **[Random-Waifu-Image](https://github.com/sang765/Random-Waifu-Image)** - 🖼️ Send random anime image to Discord, for fun project
+- **[slapple-farm](https://github.com/sang765/slapple-farm)** - Slap Battles Slapple Auto-Farm Script
+- **[discord-social-sdk](https://github.com/sang765/discord-social-sdk)** - [NOT COMPLETE] Lightweight Kotlin Discord Social SDK for Android - OAuth2, REST, Gateway
+- **[Anicord-Theme](https://github.com/sang765/Anicord-Theme)** - Yes, Another anime theme for Discord custom CSS client mods. Nerd Font Support.
+- **[VNMemeCollection](https://github.com/sang765/VNMemeCollection)** - [VIETNAM REPOSITORY] Vietnam meme collection
+- **[tmr-novel-tracking](https://github.com/sang765/tmr-novel-tracking)** - Tracking Light/Web Novel make by The Mavericks team
+- **[HakoMonetTheme](https://github.com/sang765/HakoMonetTheme)** - [VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN
+- **[Discord-CSS-Snippets](https://github.com/sang765/Discord-CSS-Snippets)** - My Discord CSS Snippet For Discord Mod Client
+- **[HTM-WEB](https://github.com/sang765/HTM-WEB)** - No description
+- **[BrightMCBackup](https://github.com/sang765/BrightMCBackup)** - [AI PROJECT] DO NOT TRY, REALLY SUCK :)))
+- **[vt-keyboard-extension](https://github.com/sang765/vt-keyboard-extension)** - Extension supports pressing enter on "virtual keyboard" to create new line. Supports Chromium and Firefox.
+- **[DARK-Launcher-Open](https://github.com/sang765/DARK-Launcher-Open)** - Inject launcher for REPO game
+- **[PaperMC-Manager](https://github.com/sang765/PaperMC-Manager)** - PaperMC Manager is a Python script that helps you manage and update Minecraft servers using Paper. This script provides options to download and update Paper versions, start Minecraft servers, and many other features.
 <!-- HOME_MADE_END -->
 
 </div>

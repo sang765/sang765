@@ -101,4 +101,11 @@
 - **[PaperMC-Manager](https://github.com/sang765/PaperMC-Manager)** - PaperMC Manager is a Python script that helps you manage and update Minecraft servers using Paper. This script provides options to download and update Paper versions, start Minecraft servers, and many other features.
 <!-- HOME_MADE_END -->
 
+## 🤝 Other Projects I've Been Involved In:
+
+| Project | Description |
+|:---:|:---|
+| <a href="https://github.com/UsagiApp/Usagi"><img src="https://github.com/UsagiApp.png" width="50" alt="UsagiApp"></a> | **[Usagi](https://github.com/UsagiApp/Usagi)** - Just a manga reader for Android. Part of Kotatsu |
+| <a href="https://github.com/rukamori/ArchiveTune"><img src="https://github.com/rukamori.png" width="50" alt="rukamori"></a> | **[ArchiveTune](https://github.com/rukamori/ArchiveTune)** - Third party YouTube Music for Android. Forked from Metrolist |
+
 </div>

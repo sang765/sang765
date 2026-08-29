@@ -1,9 +1,8 @@
-<div align="center">
-  <img src="https://github.com/sang765.png" alt="HaTienSang" width="100">
-  <h1><strong>HTS765</strong></h1>
+<div align="left">
+  <h1><img src="https://github.com/sang765.png" alt="HaTienSang" width="100"> <strong>hafts</strong></h1>
 
 ## 💫 About Me:
-<div align="center">
+<div align="left">
   <p>Hey there! 👋 I'm <strong>Ha Tien Sang</strong>, but you can call me <strong>Sang</strong> or <strong>Bright</strong> – whichever rolls off the tongue easier. I'm a passionate developer from Vietnam 🇻🇳 who loves crafting digital experiences with code.</p>
   <p>When I'm not coding, you'll find me lost in music playlists or diving into epic game worlds. I believe in creating things that not only work but also bring a smile to users' faces. Why "Bright"? Because I strive to bring light and positivity through my creations!</p>
   <br>
@@ -15,12 +14,12 @@
 </div>
 
 ## 🔥 What Drives Me:
-<div align="center">
+<div align="left">
   <p>I'm all about that intersection of creativity and technology. Whether it's designing beautiful UI themes or building tools that make life easier, I love turning ideas into reality. Currently exploring new ways to blend web development with gaming experiences!</p>
 </div>
 
 ## 🌐 Connect with Me:
-<div align="center">
+<div align="left">
   <p>Let's connect! I'm active on these platforms where I share my coding adventures and random thoughts.</p>
   <br>
   <a href="https://www.youtube.com/@sang765"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Channel"></a>
@@ -31,7 +30,7 @@
 </div>
 
 ## 🔗 Github Stats:
-<div align="center">
+<div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sang765&row=1" alt="HaTienSang's github trophy"></a>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sang765&theme=humoris&border_radius=5&date_format=j%2Fn%5B%2FY%5D&background=45%2CE9EBCC%2CFFFBA5" alt="GitHub Streak" /></a>
@@ -48,12 +47,12 @@
 </div>
 
 ## 📱 Discord Status:
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/926519119849869322"><img src="https://lanyard-profile-readme.vercel.app/api/926519119849869322?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"></a>
 </div>
 
 ## 💡 Fun Facts:
-<div align="center">
+<div align="left">
   <ul>
     <li>🎵 I have playlists for every mood – from coding sprints to chill sessions</li>
     <li>🎮 My favorite games involve storytelling and exploration</li>
@@ -64,7 +63,7 @@
 
 ## 🔥 Top Activity Repositories:
 
-<div align="center">
+<div align="left">
 <!-- TOP_REPOS_START -->
 <table>
   <tr>

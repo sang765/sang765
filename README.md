@@ -31,7 +31,7 @@
 
 ## 🔗 Github Stats:
 <div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sang765&row=1" alt="HaTienSang's github trophy"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sang765&column=-1&margin-w=15&margin-h=15" alt="HaTienSang's github trophy"></a>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sang765&theme=humoris&border_radius=5&date_format=j%2Fn%5B%2FY%5D&background=45%2CE9EBCC%2CFFFBA5" alt="GitHub Streak" /></a>
   <br>

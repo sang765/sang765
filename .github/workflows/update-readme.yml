@@ -1,0 +1,44 @@
+name: Update Top Activity Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch top active repos and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Fetch repos sorted by most recently pushed, exclude forks
+          repos=$(gh api "users/sang765/repos?per_page=100&sort=pushed&direction=desc" \
+            --jq '[.[] | select(.fork == false)] | .[0:4] | .[] | .name')
+
+          # Build the HTML cards
+          cards=""
+          for repo in $repos; do
+            cards+="  <a href=\"https://github.com/sang765/${repo}\"><img src=\"https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=${repo}&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515\" alt=\"${repo}\"></a>"$'\n'
+          done
+
+          # Replace content between markers in README
+          sed -i "/<!-- TOP_REPOS_START -->/,/<!-- TOP_REPOS_END -->/{
+            /<!-- TOP_REPOS_START -->/!{
+              /<!-- TOP_REPOS_END -->/!d
+            }
+            /<!-- TOP_REPOS_START -->/a\\
+          $(echo "$cards" | sed 's/$/\\/' | sed '$ s/\\$//')
+          }" README.md
+
+          # Commit if changed
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || git commit -m "chore: update top activity repos [skip ci]" && git push

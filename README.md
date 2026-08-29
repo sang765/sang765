@@ -62,15 +62,11 @@
   </ul>
 </div>
 
-## 🚀 Featured Projects:
+## 🔥 Top Activity Repositories:
 
 <div align="center">
-  <p>Here are some of my favorite creations – from Discord themes to Minecraft management tools. Each one reflects my passion for making digital spaces more enjoyable!</p>
-  <br>
-  <a href="https://github.com/sang765/Anicord-Theme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Anicord-Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Anicord-Theme"></a>
-  <a href="https://github.com/sang765/PaperMC-Manager"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=PaperMC-Manager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="PaperMC-Manager"></a>
-  <a href="https://github.com/sang765/Discord-CSS-Snippets"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Discord-CSS-Snippets&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Discord-CSS-Snippets"></a>
-  <a href="https://github.com/sang765/HakoMonetTheme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=HakoMonetTheme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HakoMonetTheme"></a>
+<!-- TOP_REPOS_START -->
+<!-- TOP_REPOS_END -->
 </div>
 
 </div>

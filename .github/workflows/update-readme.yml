@@ -26,7 +26,7 @@ jobs:
           # Fetch all repos sorted by most recently pushed, exclude forks
           result = subprocess.run(
               ['gh', 'api', 'users/sang765/repos?per_page=100&sort=pushed&direction=desc',
-               '--jq', '[.[] | select(.fork == false)] | [.[] | {name, description}]'],
+               '--jq', '[.[] | select(.fork == false)] | [.[] | {name, description, archived}]'],
               capture_output=True, text=True
           )
 
@@ -48,8 +48,9 @@ jobs:
           home_made = []
           for repo in all_repos:
               desc = repo.get("description") or "No description"
+              archive_tag = " `(Public Archive)`" if repo.get("archived") else ""
               home_made.append(
-                  f'- **[{repo["name"]}](https://github.com/sang765/{repo["name"]})** - {desc}'
+                  f'- **[{repo["name"]}](https://github.com/sang765/{repo["name"]})** - {desc}{archive_tag}'
               )
 
           # Read README

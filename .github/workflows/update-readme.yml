@@ -47,7 +47,7 @@ jobs:
           for i in range(0, len(top4), 2):
               left = card_html(top4[i])
               right = card_html(top4[i + 1]) if i + 1 < len(top4) else ""
-              rows.append(f'  <tr>\n    <td align="center">{left}</td>\n    <td align="center">{right}</td>\n  </tr>')
+              rows.append(f'  <tr>\n    <td align="left">{left}</td>\n    <td align="left">{right}</td>\n  </tr>')
 
           board = '<table>\n' + '\n'.join(rows) + '\n</table>'
 

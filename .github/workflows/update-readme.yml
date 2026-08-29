@@ -26,7 +26,7 @@ jobs:
           # Fetch all repos sorted by most recently pushed, exclude forks
           result = subprocess.run(
               ['gh', 'api', 'users/sang765/repos?per_page=100&sort=pushed&direction=desc',
-               '--jq', '[.[] | select(.fork == false)] | .[] | {name, description}'],
+               '--jq', '[.[] | select(.fork == false)] | [.[] | {name, description}]'],
               capture_output=True, text=True
           )
 

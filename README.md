@@ -92,7 +92,7 @@
 - **[HTM-WEB](https://github.com/sang765/HTM-WEB)** - No description
 - **[BrightMCBackup](https://github.com/sang765/BrightMCBackup)** - [AI PROJECT] DO NOT TRY, REALLY SUCK :)))
 - **[vt-keyboard-extension](https://github.com/sang765/vt-keyboard-extension)** - Extension supports pressing enter on "virtual keyboard" to create new line. Supports Chromium and Firefox.
-- **[DARK-Launcher-Open](https://github.com/sang765/DARK-Launcher-Open)** - Inject launcher for REPO game
+- **[DARK-Launcher-Open](https://github.com/sang765/DARK-Launcher-Open)** - Inject launcher for REPO game `(Public Archive)`
 - **[PaperMC-Manager](https://github.com/sang765/PaperMC-Manager)** - PaperMC Manager is a Python script that helps you manage and update Minecraft servers using Paper. This script provides options to download and update Paper versions, start Minecraft servers, and many other features.
 <!-- HOME_MADE_END -->
 

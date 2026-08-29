@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch top active repos and update README
+      - name: Fetch repos and update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -23,30 +23,40 @@ jobs:
           import subprocess
           import re
 
-          # Fetch repos sorted by most recently pushed, exclude forks
+          # Fetch all repos sorted by most recently pushed, exclude forks
           result = subprocess.run(
               ['gh', 'api', 'users/sang765/repos?per_page=100&sort=pushed&direction=desc',
-               '--jq', '[.[] | select(.fork == false)] | .[0:4] | .[] | .name'],
+               '--jq', '[.[] | select(.fork == false)] | .[] | {name, description}'],
               capture_output=True, text=True
           )
-          repos = result.stdout.strip().split('\n')
 
-          # Build the HTML cards
+          import json
+          all_repos = json.loads(result.stdout)
+          top4 = all_repos[:4]
+
+          # Build the HTML cards for top activity
           cards = []
-          for repo in repos:
-              if repo:
-                  cards.append(
-                      f'  <a href="https://github.com/sang765/{repo}">'
-                      f'<img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo={repo}'
-                      f'&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" '
-                      f'alt="{repo}"></a>'
-                  )
+          for repo in top4:
+              cards.append(
+                  f'  <a href="https://github.com/sang765/{repo["name"]}">'
+                  f'<img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo={repo["name"]}'
+                  f'&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" '
+                  f'alt="{repo["name"]}"></a>'
+              )
+
+          # Build the markdown list for all home made repos
+          home_made = []
+          for repo in all_repos:
+              desc = repo.get("description") or "No description"
+              home_made.append(
+                  f'- **[{repo["name"]}](https://github.com/sang765/{repo["name"]})** - {desc}'
+              )
 
           # Read README
           with open('README.md', 'r') as f:
               content = f.read()
 
-          # Replace content between markers
+          # Replace top repos section
           new_content = re.sub(
               r'<!-- TOP_REPOS_START -->.*?<!-- TOP_REPOS_END -->',
               '<!-- TOP_REPOS_START -->\n' + '\n'.join(cards) + '\n<!-- TOP_REPOS_END -->',
@@ -54,11 +64,20 @@ jobs:
               flags=re.DOTALL
           )
 
+          # Replace home made section
+          new_content = re.sub(
+              r'<!-- HOME_MADE_START -->.*?<!-- HOME_MADE_END -->',
+              '<!-- HOME_MADE_START -->\n' + '\n'.join(home_made) + '\n<!-- HOME_MADE_END -->',
+              new_content,
+              flags=re.DOTALL
+          )
+
           # Write back
           with open('README.md', 'w') as f:
               f.write(new_content)
 
-          print(f"Updated with repos: {', '.join(repos[:4])}")
+          print(f"Updated top repos: {', '.join(r['name'] for r in top4)}")
+          print(f"Updated home made: {len(all_repos)} repos")
           EOF
 
       - name: Commit if changed

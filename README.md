@@ -66,10 +66,16 @@
 
 <div align="center">
 <!-- TOP_REPOS_START -->
-  <a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a>
-  <a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a>
-  <a href="https://github.com/sang765/ArchiveTune-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ArchiveTune-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ArchiveTune-Discord-Bot"></a>
-  <a href="https://github.com/sang765/ShiggyCord-ARMv7a"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ShiggyCord-ARMv7a&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ShiggyCord-ARMv7a"></a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
+    <td align="center"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sang765/ArchiveTune-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ArchiveTune-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ArchiveTune-Discord-Bot"></a></td>
+    <td align="center"><a href="https://github.com/sang765/ShiggyCord-ARMv7a"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ShiggyCord-ARMv7a&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ShiggyCord-ARMv7a"></a></td>
+  </tr>
+</table>
 <!-- TOP_REPOS_END -->
 </div>
 

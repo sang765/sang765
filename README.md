@@ -67,12 +67,12 @@
 <!-- TOP_REPOS_START -->
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
-    <td align="left"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
+    <td align="left"><a href="https://github.com/sang765/TMR-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=TMR-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="TMR-Discord-Bot"></a></td>
+    <td align="left"><a href="https://github.com/sang765/HakoMonetTheme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=HakoMonetTheme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HakoMonetTheme"></a></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/ArchiveTune-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ArchiveTune-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ArchiveTune-Discord-Bot"></a></td>
-    <td align="left"><a href="https://github.com/sang765/ShiggyCord-ARMv7a"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ShiggyCord-ARMv7a&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ShiggyCord-ARMv7a"></a></td>
+    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
+    <td align="left"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
   </tr>
 </table>
 <!-- TOP_REPOS_END -->
@@ -81,6 +81,8 @@
 ## 🏠 Project Home Made:
 
 <!-- HOME_MADE_START -->
+- **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server
+- **[HakoMonetTheme](https://github.com/sang765/HakoMonetTheme)** - [VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN
 - **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
 - **[ArchiveTune-Discord-Bot](https://github.com/sang765/ArchiveTune-Discord-Bot)** - Discord Bot source code for ArchiveTune server
@@ -92,7 +94,6 @@
 - **[Anicord-Theme](https://github.com/sang765/Anicord-Theme)** - Yes, Another anime theme for Discord custom CSS client mods. Nerd Font Support.
 - **[VNMemeCollection](https://github.com/sang765/VNMemeCollection)** - [VIETNAM REPOSITORY] Vietnam meme collection
 - **[tmr-novel-tracking](https://github.com/sang765/tmr-novel-tracking)** - Tracking Light/Web Novel make by The Mavericks team
-- **[HakoMonetTheme](https://github.com/sang765/HakoMonetTheme)** - [VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN
 - **[Discord-CSS-Snippets](https://github.com/sang765/Discord-CSS-Snippets)** - My Discord CSS Snippet For Discord Mod Client
 - **[HTM-WEB](https://github.com/sang765/HTM-WEB)** - No description
 - **[BrightMCBackup](https://github.com/sang765/BrightMCBackup)** - [AI PROJECT] DO NOT TRY, REALLY SUCK :)))

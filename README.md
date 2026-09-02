@@ -68,11 +68,11 @@
 <h3>🏆 Top Home Made</h3>
 <table>
   <tr>
+    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
     <td align="left"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
-    <td align="left"><a href="https://github.com/sang765/TMR-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=TMR-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="TMR-Discord-Bot"></a></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
+    <td align="left"><a href="https://github.com/sang765/TMR-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=TMR-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="TMR-Discord-Bot"></a></td>
     <td align="left"><a href="https://github.com/sang765/HakoMonetTheme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=HakoMonetTheme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HakoMonetTheme"></a></td>
   </tr>
 </table>
@@ -80,8 +80,12 @@
 <h3>🍴 Top Fork</h3>
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/ShiggyCord-ARMv7a"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ShiggyCord-ARMv7a&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ShiggyCord-ARMv7a"></a></td>
-    <td align="left"></td>
+    <td align="left"><a href="https://github.com/sang765/AT"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=AT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AT"></a></td>
+    <td align="left"><a href="https://github.com/sang765/contribution_snake"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=contribution_snake&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="contribution_snake"></a></td>
+  </tr>
+  <tr>
+    <td align="left"><a href="https://github.com/sang765/Usagi"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Usagi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Usagi"></a></td>
+    <td align="left"><a href="https://github.com/sang765/rukamoricdcmm"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=rukamoricdcmm&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="rukamoricdcmm"></a></td>
   </tr>
 </table>
 <!-- TOP_REPOS_END -->
@@ -90,9 +94,9 @@
 ## 🏠 Project Home Made:
 
 <!-- HOME_MADE_START -->
+- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
 - **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server
-- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[HakoMonetTheme](https://github.com/sang765/HakoMonetTheme)** - [VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN
 - **[ArchiveTune-Discord-Bot](https://github.com/sang765/ArchiveTune-Discord-Bot)** - Discord Bot source code for ArchiveTune server
 - **[ShiggyCord-ARMv7a](https://github.com/sang765/ShiggyCord-ARMv7a)** - ShiggyCord DiscordRN ARMv7a fork with ShiggyXposed and ShiggyManager support

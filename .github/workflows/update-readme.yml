@@ -22,17 +22,21 @@ jobs:
           python3 << 'EOF'
           import subprocess
           import re
+          import json
 
-          # Fetch all repos sorted by most recently pushed, exclude forks
+          # Fetch all repos sorted by most recently pushed
           result = subprocess.run(
               ['gh', 'api', 'users/sang765/repos?per_page=100&sort=pushed&direction=desc',
-               '--jq', '[.[] | select(.fork == false)] | [.[] | {name, description, archived}]'],
+               '--jq', '[.[] | {name, description, archived, fork}]'],
               capture_output=True, text=True
           )
 
-          import json
           all_repos = json.loads(result.stdout)
-          top4 = all_repos[:4]
+          home_made_repos = [r for r in all_repos if not r.get("fork")]
+          fork_repos = [r for r in all_repos if r.get("fork")]
+
+          top_home_made = home_made_repos[:4]
+          top_forks = fork_repos[:4]
 
           # Build the HTML cards for top activity (2x2 board)
           def card_html(repo):
@@ -43,20 +47,28 @@ jobs:
                   f'alt="{repo["name"]}"></a>'
               )
 
-          rows = []
-          for i in range(0, len(top4), 2):
-              left = card_html(top4[i])
-              right = card_html(top4[i + 1]) if i + 1 < len(top4) else ""
-              rows.append(f'  <tr>\n    <td align="left">{left}</td>\n    <td align="left">{right}</td>\n  </tr>')
+          def build_board(repos):
+              rows = []
+              for i in range(0, len(repos), 2):
+                  left = card_html(repos[i])
+                  right = card_html(repos[i + 1]) if i + 1 < len(repos) else ""
+                  rows.append(f'  <tr>\n    <td align="left">{left}</td>\n    <td align="left">{right}</td>\n  </tr>')
+              return '<table>\n' + '\n'.join(rows) + '\n</table>'
 
-          board = '<table>\n' + '\n'.join(rows) + '\n</table>'
+          top_repos_html = (
+              '<h3>🏆 Top Home Made</h3>\n'
+              + build_board(top_home_made)
+              + '\n<br>\n'
+              + '<h3>🍴 Top Fork</h3>\n'
+              + build_board(top_forks)
+          )
 
           # Build the markdown list for all home made repos
-          home_made = []
-          for repo in all_repos:
+          home_made_list = []
+          for repo in home_made_repos:
               desc = repo.get("description") or "No description"
               archive_tag = " `(Public Archive)`" if repo.get("archived") else ""
-              home_made.append(
+              home_made_list.append(
                   f'- **[{repo["name"]}](https://github.com/sang765/{repo["name"]})** - {desc}{archive_tag}'
               )
 
@@ -67,7 +79,7 @@ jobs:
           # Replace top repos section
           new_content = re.sub(
               r'<!-- TOP_REPOS_START -->.*?<!-- TOP_REPOS_END -->',
-              '<!-- TOP_REPOS_START -->\n' + board + '\n<!-- TOP_REPOS_END -->',
+              '<!-- TOP_REPOS_START -->\n' + top_repos_html + '\n<!-- TOP_REPOS_END -->',
               content,
               flags=re.DOTALL
           )
@@ -75,7 +87,7 @@ jobs:
           # Replace home made section
           new_content = re.sub(
               r'<!-- HOME_MADE_START -->.*?<!-- HOME_MADE_END -->',
-              '<!-- HOME_MADE_START -->\n' + '\n'.join(home_made) + '\n<!-- HOME_MADE_END -->',
+              '<!-- HOME_MADE_START -->\n' + '\n'.join(home_made_list) + '\n<!-- HOME_MADE_END -->',
               new_content,
               flags=re.DOTALL
           )
@@ -84,8 +96,9 @@ jobs:
           with open('README.md', 'w') as f:
               f.write(new_content)
 
-          print(f"Updated top repos: {', '.join(r['name'] for r in top4)}")
-          print(f"Updated home made: {len(all_repos)} repos")
+          print(f"Updated top home made: {', '.join(r['name'] for r in top_home_made)}")
+          print(f"Updated top forks: {', '.join(r['name'] for r in top_forks)}")
+          print(f"Updated home made list: {len(home_made_repos)} repos")
           EOF
 
       - name: Commit if changed

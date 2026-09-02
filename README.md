@@ -65,6 +65,7 @@
 
 <div align="left">
 <!-- TOP_REPOS_START -->
+<h3>🏆 Top Home Made</h3>
 <table>
   <tr>
     <td align="left"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
@@ -73,6 +74,14 @@
   <tr>
     <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
     <td align="left"><a href="https://github.com/sang765/HakoMonetTheme"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=HakoMonetTheme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HakoMonetTheme"></a></td>
+  </tr>
+</table>
+<br>
+<h3>🍴 Top Fork</h3>
+<table>
+  <tr>
+    <td align="left"><a href="https://github.com/sang765/ShiggyCord-ARMv7a"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ShiggyCord-ARMv7a&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ShiggyCord-ARMv7a"></a></td>
+    <td align="left"></td>
   </tr>
 </table>
 <!-- TOP_REPOS_END -->

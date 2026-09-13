@@ -68,20 +68,20 @@
 <h3>🏆 Top Home Made</h3>
 <table>
   <tr>
+    <td align="left"><a href="https://github.com/sang765/TMR-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=TMR-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="TMR-Discord-Bot"></a></td>
     <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
-    <td align="left"><a href="https://github.com/sang765/steel-termux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=steel-termux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="steel-termux"></a></td>
   </tr>
   <tr>
+    <td align="left"><a href="https://github.com/sang765/steel-termux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=steel-termux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="steel-termux"></a></td>
     <td align="left"><a href="https://github.com/sang765/ArchiveTune-Discord-Bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=ArchiveTune-Discord-Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="ArchiveTune-Discord-Bot"></a></td>
-    <td align="left"><a href="https://github.com/sang765/Random-Waifu-Image"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Random-Waifu-Image&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Random-Waifu-Image"></a></td>
   </tr>
 </table>
 <br>
 <h3>🍴 Top Fork</h3>
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/AT"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=AT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AT"></a></td>
     <td align="left"><a href="https://github.com/sang765/contribution_snake"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=contribution_snake&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="contribution_snake"></a></td>
+    <td align="left"><a href="https://github.com/sang765/AT"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=AT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AT"></a></td>
   </tr>
   <tr>
     <td align="left"><a href="https://github.com/sang765/Usagi"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Usagi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Usagi"></a></td>
@@ -94,6 +94,7 @@
 ## 🏠 Project Home Made:
 
 <!-- HOME_MADE_START -->
+- **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server
 - **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[steel-termux](https://github.com/sang765/steel-termux)** - Pre-built Steel CLI binaries for Termux (aarch64-android)
 - **[ArchiveTune-Discord-Bot](https://github.com/sang765/ArchiveTune-Discord-Bot)** - Discord Bot source code for ArchiveTune server
@@ -101,7 +102,6 @@
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
 - **[noname-browser](https://github.com/sang765/noname-browser)** - Just a browser... (Forked from Titanium browser)
 - **[noname-extension](https://github.com/sang765/noname-extension)** - NoName Extension for Android - Chromium extension with download manager support and marketplace install
-- **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server
 - **[HakoMonetTheme](https://github.com/sang765/HakoMonetTheme)** - [VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN
 - **[ShiggyCord-ARMv7a](https://github.com/sang765/ShiggyCord-ARMv7a)** - ShiggyCord DiscordRN ARMv7a fork with ShiggyXposed and ShiggyManager support
 - **[AT-nightly-test](https://github.com/sang765/AT-nightly-test)** - Test builds for ArchiveTune Nightly

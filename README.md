@@ -68,11 +68,11 @@
 <h3>🏆 Top Home Made</h3>
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/noname-browser"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=noname-browser&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="noname-browser"></a></td>
     <td align="left"><a href="https://github.com/sang765/Random-Waifu-Image"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Random-Waifu-Image&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Random-Waifu-Image"></a></td>
+    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
+    <td align="left"><a href="https://github.com/sang765/noname-browser"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=noname-browser&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="noname-browser"></a></td>
     <td align="left"><a href="https://github.com/sang765/Usagi-Toolkit"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Usagi-Toolkit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Usagi-Toolkit"></a></td>
   </tr>
 </table>
@@ -94,9 +94,9 @@
 ## 🏠 Project Home Made:
 
 <!-- HOME_MADE_START -->
-- **[noname-browser](https://github.com/sang765/noname-browser)** - Just a browser... (Forked from Titanium browser)
 - **[Random-Waifu-Image](https://github.com/sang765/Random-Waifu-Image)** - 🖼️ Send random anime image to Discord, for fun project
 - **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
+- **[noname-browser](https://github.com/sang765/noname-browser)** - Just a browser... (Forked from Titanium browser)
 - **[Usagi-Toolkit](https://github.com/sang765/Usagi-Toolkit)** - Make your agent LLMs can make Usagi plugin without how to code
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
 - **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server

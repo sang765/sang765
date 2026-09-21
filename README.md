@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td align="left"><a href="https://github.com/sang765/Random-Waifu-Image"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Random-Waifu-Image&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Random-Waifu-Image"></a></td>
-    <td align="left"><a href="https://github.com/sang765/noname-browser"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=noname-browser&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="noname-browser"></a></td>
+    <td align="left"><a href="https://github.com/sang765/Usagi-Toolkit"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Usagi-Toolkit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Usagi-Toolkit"></a></td>
   </tr>
 </table>
 <br>
@@ -97,12 +97,10 @@
 - **[ArchiveTune-Discord-Bot](https://github.com/sang765/ArchiveTune-Discord-Bot)** - Discord Bot source code for ArchiveTune server
 - **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[Random-Waifu-Image](https://github.com/sang765/Random-Waifu-Image)** - 🖼️ Send random anime image to Discord, for fun project
-- **[noname-browser](https://github.com/sang765/noname-browser)** - Just a browser... (Forked from Titanium browser)
 - **[Usagi-Toolkit](https://github.com/sang765/Usagi-Toolkit)** - Make your agent LLMs can make Usagi plugin without how to code
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
 - **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server
 - **[steel-termux](https://github.com/sang765/steel-termux)** - Pre-built Steel CLI binaries for Termux (aarch64-android)
-- **[noname-extension](https://github.com/sang765/noname-extension)** - NoName Extension for Android - Chromium extension with download manager support and marketplace install
 - **[HakoMonetTheme](https://github.com/sang765/HakoMonetTheme)** - [VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN
 - **[ShiggyCord-ARMv7a](https://github.com/sang765/ShiggyCord-ARMv7a)** - ShiggyCord DiscordRN ARMv7a fork with ShiggyXposed and ShiggyManager support
 - **[AT-nightly-test](https://github.com/sang765/AT-nightly-test)** - Test builds for ArchiveTune Nightly

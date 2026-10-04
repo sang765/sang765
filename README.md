@@ -69,11 +69,11 @@
 <table>
   <tr>
     <td align="left"><a href="https://github.com/sang765/miniworld-patch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=miniworld-patch&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="miniworld-patch"></a></td>
-    <td align="left"><a href="https://github.com/sang765/w30396532858891"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=w30396532858891&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="w30396532858891"></a></td>
+    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
   </tr>
   <tr>
+    <td align="left"><a href="https://github.com/sang765/w30396532858891"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=w30396532858891&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="w30396532858891"></a></td>
     <td align="left"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
-    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
   </tr>
 </table>
 <br>
@@ -95,9 +95,9 @@
 
 <!-- HOME_MADE_START -->
 - **[miniworld-patch](https://github.com/sang765/miniworld-patch)** - Patch pipeline: Mini World 1.7.15 WebView-open block + HWID spoof, built by GitHub Actions
+- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[w30396532858891](https://github.com/sang765/w30396532858891)** - Just a Mini World : CREATA map (For my team can work without send zip file anymore)
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
-- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[Random-Waifu-Image](https://github.com/sang765/Random-Waifu-Image)** - 🖼️ Send random anime image to Discord, for fun project
 - **[Usagi-Toolkit](https://github.com/sang765/Usagi-Toolkit)** - Make your agent LLMs can make Usagi plugin without how to code
 - **[TMR-Discord-Bot](https://github.com/sang765/TMR-Discord-Bot)** - Discord bot for The Mavericks server

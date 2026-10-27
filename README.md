@@ -80,8 +80,8 @@
 <h3>🍴 Top Fork</h3>
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/contribution_snake"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=contribution_snake&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="contribution_snake"></a></td>
     <td align="left"><a href="https://github.com/sang765/LeviDroid-Modder"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=LeviDroid-Modder&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="LeviDroid-Modder"></a></td>
+    <td align="left"><a href="https://github.com/sang765/contribution_snake"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=contribution_snake&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="contribution_snake"></a></td>
   </tr>
   <tr>
     <td align="left"><a href="https://github.com/sang765/AT"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=AT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AT"></a></td>

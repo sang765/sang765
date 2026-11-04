@@ -84,7 +84,7 @@
     <td align="left"><a href="https://github.com/sang765/LeviDroid-Modder"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=LeviDroid-Modder&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="LeviDroid-Modder"></a></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/horizon"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=horizon&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="horizon"></a></td>
+    <td align="left"><a href="https://github.com/sang765/Usagi"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Usagi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Usagi"></a></td>
     <td align="left"><a href="https://github.com/sang765/AT"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=AT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="AT"></a></td>
   </tr>
 </table>

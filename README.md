@@ -68,8 +68,8 @@
 <h3>🏆 Top Home Made</h3>
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
     <td align="left"><a href="https://github.com/sang765/Random-Waifu-Image"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Random-Waifu-Image&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Random-Waifu-Image"></a></td>
+    <td align="left"><a href="https://github.com/sang765/sang765"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=sang765&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="sang765"></a></td>
   </tr>
   <tr>
     <td align="left"><a href="https://github.com/sang765/opencode-termux-setup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=opencode-termux-setup&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="opencode-termux-setup"></a></td>
@@ -80,8 +80,8 @@
 <h3>🍴 Top Fork</h3>
 <table>
   <tr>
-    <td align="left"><a href="https://github.com/sang765/LeviDroid-Modder"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=LeviDroid-Modder&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="LeviDroid-Modder"></a></td>
     <td align="left"><a href="https://github.com/sang765/contribution_snake"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=contribution_snake&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="contribution_snake"></a></td>
+    <td align="left"><a href="https://github.com/sang765/LeviDroid-Modder"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=LeviDroid-Modder&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="LeviDroid-Modder"></a></td>
   </tr>
   <tr>
     <td align="left"><a href="https://github.com/sang765/Usagi"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sang765&repo=Usagi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Usagi"></a></td>
@@ -94,8 +94,8 @@
 ## 🏠 Project Home Made:
 
 <!-- HOME_MADE_START -->
-- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[Random-Waifu-Image](https://github.com/sang765/Random-Waifu-Image)** - 🖼️ Send random anime image to Discord, for fun project
+- **[sang765](https://github.com/sang765/sang765)** - Config files for my GitHub profile.
 - **[opencode-termux-setup](https://github.com/sang765/opencode-termux-setup)** - TypeScript build pipeline for OpenCode on Termux
 - **[levibatone](https://github.com/sang765/levibatone)** - [W.I.P] Baritone-style pathfinding bot for Minecraft Bedrock as a LeviLauncher native mod
 - **[mwc-patch](https://github.com/sang765/mwc-patch)** - Custom patch for MW: C 1.17.5 global for Android

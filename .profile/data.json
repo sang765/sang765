@@ -1,0 +1,602 @@
+{
+ "key": "3254ee0",
+ "stars": 58,
+ "contributions": 811,
+ "repos": 38,
+ "followers": 26,
+ "languages": [
+  [
+   "Smali",
+   18259292
+  ],
+  [
+   "Java",
+   15932907
+  ],
+  [
+   "Kotlin",
+   8628296
+  ],
+  [
+   "JavaScript",
+   1126100
+  ],
+  [
+   "TypeScript",
+   907085
+  ],
+  [
+   "Lua",
+   400185
+  ],
+  [
+   "Python",
+   262366
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 10,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 25
+ },
+ "pins": [
+  {
+   "name": "Anicord-Theme",
+   "url": "https://github.com/sang765/Anicord-Theme",
+   "text": "Yes, Another anime theme for Discord custom CSS client mods. Nerd Font Support.",
+   "fork": false,
+   "stars": 39,
+   "language": "CSS",
+   "topics": [
+    "betterdiscord-theme",
+    "css",
+    "discord",
+    "discord-css",
+    "themes",
+    "vencord-theme",
+    "replugged",
+    "replugged-theme"
+   ]
+  },
+  {
+   "name": "Discord-CSS-Snippets",
+   "url": "https://github.com/sang765/Discord-CSS-Snippets",
+   "text": "My Discord CSS Snippet For Discord Mod Client",
+   "fork": false,
+   "stars": 6,
+   "language": "CSS",
+   "topics": [
+    "betterdiscord",
+    "css-snippet",
+    "css-snippets",
+    "vencord"
+   ]
+  },
+  {
+   "name": "PaperMC-Manager",
+   "url": "https://github.com/sang765/PaperMC-Manager",
+   "text": "PaperMC Manager is a Python script that helps you manage and update Minecraft servers using Paper. This script provides options to download and update Paper versions, start Minecraft servers, and many other features.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "minecraft",
+    "minecraft-paper",
+    "minecraft-papermc-server",
+    "minecraft-server",
+    "paper",
+    "papermc",
+    "python"
+   ]
+  },
+  {
+   "name": "HakoMonetTheme",
+   "url": "https://github.com/sang765/HakoMonetTheme",
+   "text": "[VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "hako",
+    "javascript",
+    "userscript",
+    "docln"
+   ]
+  },
+  {
+   "name": "ArchiveTune-Discord-Bot",
+   "url": "https://github.com/sang765/ArchiveTune-Discord-Bot",
+   "text": "Discord Bot source code for ArchiveTune server",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "TMR-Discord-Bot",
+   "url": "https://github.com/sang765/TMR-Discord-Bot",
+   "text": "Discord bot for The Mavericks server",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Anicord-Theme",
+   "url": "https://github.com/sang765/Anicord-Theme",
+   "text": "Yes, Another anime theme for Discord custom CSS client mods. Nerd Font Support.",
+   "fork": false,
+   "stars": 39,
+   "language": "CSS",
+   "topics": [
+    "betterdiscord-theme",
+    "css",
+    "discord",
+    "discord-css",
+    "themes",
+    "vencord-theme",
+    "replugged",
+    "replugged-theme"
+   ]
+  },
+  {
+   "name": "LeviDroid-Modder",
+   "url": "https://github.com/sang765/LeviDroid-Modder",
+   "text": "My personal fork of LeviLauncher, An MCBE launcher on Android",
+   "fork": true,
+   "stars": 6,
+   "language": "Java",
+   "topics": [
+    "android",
+    "android-application",
+    "launcher",
+    "mcbe",
+    "minecraft"
+   ]
+  },
+  {
+   "name": "Discord-CSS-Snippets",
+   "url": "https://github.com/sang765/Discord-CSS-Snippets",
+   "text": "My Discord CSS Snippet For Discord Mod Client",
+   "fork": false,
+   "stars": 6,
+   "language": "CSS",
+   "topics": [
+    "betterdiscord",
+    "css-snippet",
+    "css-snippets",
+    "vencord"
+   ]
+  },
+  {
+   "name": "AT",
+   "url": "https://github.com/sang765/AT",
+   "text": "Wake up... This time for move on",
+   "fork": true,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DARK-Launcher-Open",
+   "url": "https://github.com/sang765/DARK-Launcher-Open",
+   "text": "Inject launcher for REPO game",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "PaperMC-Manager",
+   "url": "https://github.com/sang765/PaperMC-Manager",
+   "text": "PaperMC Manager is a Python script that helps you manage and update Minecraft servers using Paper. This script provides options to download and update Paper versions, start Minecraft servers, and many other features.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "minecraft",
+    "minecraft-paper",
+    "minecraft-papermc-server",
+    "minecraft-server",
+    "paper",
+    "papermc",
+    "python"
+   ]
+  },
+  {
+   "name": "opencode-termux-setup",
+   "url": "https://github.com/sang765/opencode-termux-setup",
+   "text": "TypeScript build pipeline for OpenCode on Termux",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "HakoMonetTheme",
+   "url": "https://github.com/sang765/HakoMonetTheme",
+   "text": "[VIETNAM REPOSITORY] Not just Material You theme for Hako/DocLN",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "hako",
+    "javascript",
+    "userscript",
+    "docln"
+   ]
+  },
+  {
+   "name": "w30396532858891",
+   "url": "https://github.com/sang765/w30396532858891",
+   "text": "Just a Mini World : CREATA map (For my team can work without send zip file anymore)",
+   "fork": false,
+   "stars": 1,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "AT-nightly-test",
+   "url": "https://github.com/sang765/AT-nightly-test",
+   "text": "Test builds for ArchiveTune Nightly",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "discord-social-sdk",
+   "url": "https://github.com/sang765/discord-social-sdk",
+   "text": "[NOT COMPLETE] Lightweight Kotlin Discord Social SDK for Android - OAuth2, REST, Gateway",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "levibatone",
+   "url": "https://github.com/sang765/levibatone",
+   "text": "[W.I.P] Baritone-style pathfinding bot for Minecraft Bedrock as a LeviLauncher native mod",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "mwc-patch",
+   "url": "https://github.com/sang765/mwc-patch",
+   "text": "Custom patch for MW: C 1.17.5 global for Android",
+   "fork": false,
+   "stars": 0,
+   "language": "Smali",
+   "topics": []
+  },
+  {
+   "name": "Usagi-Toolkit",
+   "url": "https://github.com/sang765/Usagi-Toolkit",
+   "text": "Make your agent LLMs can make Usagi plugin without how to code",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "steel-termux",
+   "url": "https://github.com/sang765/steel-termux",
+   "text": "Pre-built Steel CLI binaries for Termux (aarch64-android)",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "TMR-Discord-Bot",
+   "url": "https://github.com/sang765/TMR-Discord-Bot",
+   "text": "Discord bot for The Mavericks server",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "contribution_snake",
+   "url": "https://github.com/sang765/contribution_snake",
+   "text": "This automatically converts your contribution graph into a snake animation. The snake will eat your contributions. Also, this will update it everyday.",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ShiggyCord-ARMv7a",
+   "url": "https://github.com/sang765/ShiggyCord-ARMv7a",
+   "text": "ShiggyCord DiscordRN ARMv7a fork with ShiggyXposed and ShiggyManager support",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Usagi-OAuth2-RPC",
+   "url": "https://github.com/sang765/Usagi-OAuth2-RPC",
+   "text": "DiscordRPC library for Android using OAuth2 over WebSocket (for Usagi app)",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ArchiveTune-Discord-Bot",
+   "url": "https://github.com/sang765/ArchiveTune-Discord-Bot",
+   "text": "Discord Bot source code for ArchiveTune server",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "TsukiMix",
+   "url": "https://github.com/sang765/TsukiMix",
+   "text": "This repository contains TsukiMix source code, a core library used in Usagi to read and compile every Tachiyomi exts to External plugins.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "SmartIsland",
+   "url": "https://github.com/sang765/SmartIsland",
+   "text": "[FORK] Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "rukamoricdcmm",
+   "url": "https://github.com/sang765/rukamoricdcmm",
+   "text": "Just fork, not something else...",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "slapple-farm",
+   "url": "https://github.com/sang765/slapple-farm",
+   "text": "Slap Battles Slapple Auto-Farm Script",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "smartcrop.kt",
+   "url": "https://github.com/sang765/smartcrop.kt",
+   "text": "Content aware image cropping (Rewrite for Kotlin Android app)",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Discord-OAuth2-RPC",
+   "url": "https://github.com/sang765/Discord-OAuth2-RPC",
+   "text": "DiscordRPC library for Android using OAuth2 over Web Socket",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "bright-ani-ext",
+   "url": "https://github.com/sang765/bright-ani-ext",
+   "text": "My custom extension for Aniyomi (focus to VN and multi language source)",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "lnreader-extended",
+   "url": "https://github.com/sang765/lnreader-extended",
+   "text": "Just a fork... WTF im i doin?",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Usagi",
+   "url": "https://github.com/sang765/Usagi",
+   "text": "Just a manga reader fork... IDK what i am doin.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Discord-Quest-Auto-Completion-Selfbot",
+   "url": "https://github.com/sang765/Discord-Quest-Auto-Completion-Selfbot",
+   "text": "The repository name already explains its purpose",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Random-Waifu-Image",
+   "url": "https://github.com/sang765/Random-Waifu-Image",
+   "text": "🖼️ Send random anime image to Discord, for fun project",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "HTM-WEB",
+   "url": "https://github.com/sang765/HTM-WEB",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "tmr-novel-tracking",
+   "url": "https://github.com/sang765/tmr-novel-tracking",
+   "text": "Tracking Light/Web Novel make by The Mavericks team",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Doki",
+   "url": "https://github.com/sang765/Doki",
+   "text": "Not description",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "BrightMCBackup",
+   "url": "https://github.com/sang765/BrightMCBackup",
+   "text": "[AI PROJECT] DO NOT TRY, REALLY SUCK :)))",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "VNMemeCollection",
+   "url": "https://github.com/sang765/VNMemeCollection",
+   "text": "[VIETNAM REPOSITORY] Vietnam meme collection",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vt-keyboard-extension",
+   "url": "https://github.com/sang765/vt-keyboard-extension",
+   "text": "Extension supports pressing enter on \"virtual keyboard\" to create new line. Supports Chromium and Firefox.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "extension-chrome",
+    "extension-firefox",
+    "javascript"
+   ]
+  },
+  {
+   "name": "sang765",
+   "url": "https://github.com/sang765/sang765",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

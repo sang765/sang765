@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "sang765",
-  "seed": "#11191B",
+  "seed": "#11181A",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -19,19 +19,19 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Xin chào, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I am in the process of destroying everything",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Chiêm Hóa, Tuyên Quang, Vietnam"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "TypeScript · Kotlin · Java · Python"
       }
     ]
   },
@@ -40,15 +40,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
-      },
-      {
-        "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Developer"
       },
       {
         "icon": "palette",
         "label": "Into Material Design"
+      },
+      {
+        "icon": "favorite",
+        "label": "Love do random stuff"
       }
     ]
   },
@@ -58,6 +58,14 @@
       {
         "title": "Main",
         "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Java"
+          },
           {
             "icon": "brand:typescript",
             "label": "TypeScript"
@@ -80,10 +88,6 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
           }
@@ -92,8 +96,13 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "Anicord-Theme",
+      "Discord-CSS-Snippets",
+      "DARK-Launcher-Open",
+      "PaperMC-Manager"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -119,15 +128,19 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/sangsdayy"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/users/926519119849869322"
       },
       {
         "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://x.com/sengsdeyy"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/@sang765"
       }
     ],
     "variant": "chip",
@@ -136,12 +149,6 @@
   },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",

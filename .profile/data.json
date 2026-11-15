@@ -1,5 +1,5 @@
 {
- "key": "b189a3b",
+ "key": "373501fc",
  "stars": 58,
  "contributions": 842,
  "repos": 38,
@@ -234,7 +234,7 @@
    "url": "https://github.com/sang765/LeviDroid-Modder",
    "text": "​A custom fork of LeviLauncher for Minecraft Bedrock Edition (MCBE) on Android, focused on experimental features and modifications.",
    "fork": true,
-   "stars": 10,
+   "stars": 11,
    "language": "Java",
    "topics": [
     "android",
